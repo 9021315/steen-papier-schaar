@@ -1,0 +1,37 @@
+body {
+	padding: 20px;
+	font-family: Arial, Sans-Serif;
+}
+
+.container {
+	width: 600px;
+	margin: 0 auto;
+}
+
+.game {
+	margin-top: 20px;
+}
+
+.option {
+	display: inline-block;
+	margin: 5px;
+	padding: 10px;
+	background-color: #1976d2;
+	color: #fff;
+	font-size: 20px;
+	cursor: pointer;
+}
+
+.option:hover {
+	background-color: #76b2d2;
+}
+
+.result {
+	text-align: center;
+}
+
+.message {
+	font-size: 20px;
+}
+
+
